@@ -19,7 +19,7 @@ input {
     border: 2px solid lightgray;
     border-radius: 5px;
 }
-.gallery-container {
+.gallery {
     padding: 0 10px;
     max-width: 1000px;
     display: grid;
