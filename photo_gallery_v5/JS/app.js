@@ -1,4 +1,5 @@
-
+// const search = new FileSystemEntry('search', 'data-caption');
+baguetteBox.run('.gallery');
 
 // created 'searchBar' variable that stores the input element with an ID of searchBar
 // Added an event listener to 'searchBar' that listens for the keyup event,
@@ -26,6 +27,3 @@ searchBar.addEventListener('keyup', e => {
         }
     });
 });
-
-// const search = new FileSystemEntry('search', 'data-caption');
-baguetteBox.run('.gallery');
